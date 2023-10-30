@@ -231,7 +231,7 @@ img {
 .section-2 .features .content-2 .leftside {
 	height: 48.4rem;
 	width: 57rem;
-	background-image: url('img/pinkcircle.png');
+	background-image: url('img/bg-pinkcircle.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-color: #FFE9F4;
@@ -240,7 +240,7 @@ img {
 
 .section-2 .features .content-2 .leftside::before {
 	content: '';
-	background-image: url('img/packet2.png');
+	background-image: url('img/lays-packet2.png');
 	background-repeat: no-repeat;
 	width: 37.2rem;
 	height: 48.4rem;
@@ -326,7 +326,7 @@ img {
 }
 
 .section-3 .product .down-part .item-1 {
-	background-image: url('img/green-circle.png');
+	background-image: url('img/bg-green-circle.png');
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 37rem;
@@ -339,7 +339,7 @@ img {
 
 .section-3 .product .down-part .item-1::before {
 	content: '';
-	background-image: url('img/green-packet.png');
+	background-image: url('img/bg-green-packet.png');
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 28rem;
@@ -361,7 +361,7 @@ img {
 }
 
 .section-3 .product .down-part .item-2 {
-	background-image: url('img/red-circle.png');
+	background-image: url('img/bg-red-circle.png');
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 37rem;
@@ -431,7 +431,7 @@ img {
 }
 
 .section-3 .product .down-part .item-4 {
-	background-image: url('img/orange-circle.png');
+	background-image: url('img/bg-orange-circle.png');
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 37rem;
@@ -445,7 +445,7 @@ img {
 
 .section-3 .product .down-part .item-4::before {
 	content: '';
-	background-image: url('img/orange-packet.png');
+	background-image: url('img/bg-orange-packet.png');
 	background-repeat: no-repeat;
 	width: 26.5rem;
 	height: 33rem;
@@ -466,7 +466,7 @@ img {
 }
 
 .section-3 .product .down-part .item-5 {
-	background-image: url('img/blue-circle.png');
+	background-image: url('img/bg-blue-circle.png');
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 37rem;
@@ -480,7 +480,7 @@ img {
 
 .section-3 .product .down-part .item-5::before {
 	content: '';
-	background-image: url('img/blue-packet.png');
+	background-image: url('img/blue-lays.png');
 	background-repeat: no-repeat;
 	width: 26.5rem;
 	height: 33rem;
@@ -501,7 +501,7 @@ img {
 }
 
 .section-3 .product .down-part .item-6 {
-	background-image: url('img/deep-green-circle.png');
+	background-image: url('img/bg-deep-green-circle.png');
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 37rem;
@@ -515,7 +515,7 @@ img {
 
 .section-3 .product .down-part .item-6::before {
 	content: '';
-	background-image: url('img/deep-green.png');
+	background-image: url('img/lays-deep-green.png');
 	background-repeat: no-repeat;
 	width: 26.5rem;
 	height: 33rem;
@@ -583,7 +583,7 @@ img {
 .section-4 .videos .box-1 {
 	width: 57rem;
 	height: 48.4rem;
-	background-image: url('img/circle-2.png');
+	background-image: url('img/bg-circle-2.png');
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-color: #EAFFFC;
@@ -593,12 +593,12 @@ img {
 }
 
 .section-4 .videos .box-1:hover {
-	transform: rotate(-10deg);
+	transform: scale(1.1);
 }
 
 .section-4 .videos .box-1::before {
 	content: '';
-	background-image: url('img/ming.png');
+	background-image: url('img/lays-wavy.png');
 	background-repeat: no-repeat;
 	width: 32.4rem;
 	height: 48.4rem;
@@ -610,7 +610,7 @@ img {
 .section-4 .videos .box-2 {
 	width: 57rem;
 	height: 38.4rem;
-	background-image: url('img/circle-3.png');
+	background-image: url('img/bg-circle-3.png');
 	background-repeat: no-repeat;
 	background-size: contain;
 	position: relative;
@@ -620,7 +620,7 @@ img {
 }
 
 .section-4 .videos .box-2:hover {
-	transform: rotate(10deg);
+	transform: scale(1.1);
 }
 
 .section-4 .videos .box-2::before {
@@ -696,7 +696,7 @@ img {
 }
 
 .section-5 .testimonial .my-profile img:hover {
-	transform: rotateY(360deg);
+	transform: rotateX(360deg);
 }
 
 /* section-6 style */
