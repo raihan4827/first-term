@@ -130,7 +130,7 @@ img {
 
 .btn-primary:hover {
 	color: var(--ternary-color);
-	background-color: var(--primary-color);
+	background-color: #ffffff;
 	border: 1px solid var(--ternary-color);
 }
 
