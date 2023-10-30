@@ -625,7 +625,7 @@ img {
 
 .section-4 .videos .box-2::before {
 	content: '';
-	background-image: url('img/red-packet.png');
+	background-image: url('img/bg-orange-packet.png');
 	background-repeat: no-repeat;
 	width: 31rem;
 	height: 40rem;
